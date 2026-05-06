@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#1E88E5</color>
+    <color name="accent">#2196F3</color>
+
+    <!-- Background Colors -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_light">#F5F7FA</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="splash_background">#1565C0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_link">#1565C0</color>
+
+    <!-- Status Colors -->
+    <color name="status_green">#4CAF50</color>
+    <color name="status_orange">#FF9800</color>
+    <color name="status_red">#F44336</color>
+    <color name="status_blue">#2196F3</color>
+
+    <!-- Star Rating -->
+    <color name="star_filled">#FFD700</color>
+    <color name="star_empty">#E0E0E0</color>
+
+    <!-- Input Fields -->
+    <color name="input_border">#E0E0E0</color>
+    <color name="input_border_focused">#1565C0</color>
+    <color name="input_background">#F8F9FA</color>
+
+    <!-- Tab Colors -->
+    <color name="tab_selected">#1565C0</color>
+    <color name="tab_unselected">#FFFFFF</color>
+    <color name="tab_text_selected">#FFFFFF</color>
+    <color name="tab_text_unselected">#1565C0</color>
+    <color name="tab_border">#1565C0</color>
+
+    <!-- Card Colors -->
+    <color name="card_blue_gradient_start">#1565C0</color>
+    <color name="card_blue_gradient_end">#0D47A1</color>
+
+    <!-- Verified Badge -->
+    <color name="verified_green">#E8F5E9</color>
+    <color name="verified_text">#4CAF50</color>
+
+    <!-- Divider -->
+    <color name="divider">#EEEEEE</color>
+
+    <!-- Cancel Button -->
+    <color name="cancel_red">#F44336</color>
+    <color name="cancel_red_dark">#D32F2F</color>
+
+    <!-- Timer -->
+    <color name="timer_circle">#1565C0</color>
+    <color name="timer_background">#E3F2FD</color>
+</resources>

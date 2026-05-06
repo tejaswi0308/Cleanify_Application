@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Cleanify</string>
+
+    <!-- Splash -->
+    <string name="splash_tagline">Clean Rooms. Happy Students.</string>
+
+    <!-- Login -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_cleanify">Login to Cleanify</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password_question">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register_link">Register</string>
+
+    <!-- Register -->
+    <string name="create_account">Create Account</string>
+    <string name="join_cleanify_student">Join Cleanify for a better hostel experience</string>
+    <string name="join_cleanify_staff">Join the Cleanify staff team</string>
+    <string name="student">STUDENT</string>
+    <string name="staff">STAFF</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="registration_number_hint">Registration Number</string>
+    <string name="hostel_id_hint">Hostel ID</string>
+    <string name="floor_number_hint">Floor Number</string>
+    <string name="room_number_hint">Room Number</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="login_link">Login</string>
+
+    <!-- Staff Register -->
+    <string name="househelp_id_hint">Househelp ID</string>
+    <string name="assigned_hostel_hint">Assigned Hostel</string>
+    <string name="shift_hint">Shift</string>
+
+    <!-- Forgot Password -->
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password_desc">Enter your registered email or phone number to receive an OTP.</string>
+    <string name="email_or_phone">Email or Phone Number</string>
+    <string name="email_placeholder">e.g. name@xyz.edu.in</string>
+    <string name="submit">Submit</string>
+    <string name="remember_password">Remember your password?</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <!-- OTP -->
+    <string name="verify_otp">Verify OTP</string>
+    <string name="otp_desc">Enter the 4-digit code sent to your email/phone</string>
+    <string name="verify">Verify</string>
+    <string name="didnt_receive_code">Didn\'t receive the code?</string>
+    <string name="resend_otp">Resend OTP</string>
+
+    <!-- Reset Password -->
+    <string name="reset_password">Reset Password</string>
+    <string name="create_new_password">Create New Password</string>
+    <string name="reset_password_desc">Your new password must be different from previous used passwords to keep your Cleanify account secure.</string>
+    <string name="new_password_hint">Enter new password</string>
+    <string name="confirm_password_hint">Re-enter new password</string>
+    <string name="password_req_symbol">Include a symbol or number</string>
+    <string name="password_req_length">8 characters long</string>
+    <string name="update_password">Update Password</string>
+
+    <!-- Student Dashboard -->
+    <string name="welcome_comma">Welcome,</string>
+    <string name="current_status">CURRENT STATUS</string>
+    <string name="no_active_request">No Active Request</string>
+    <string name="last_cleaned">Last Cleaned</string>
+    <string name="total_requests">Total Requests</string>
+    <string name="new_cleaning_request">New Cleaning Request</string>
+
+    <!-- Edit Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="service_location">SERVICE LOCATION</string>
+    <string name="hostel">HOSTEL</string>
+    <string name="room_no">ROOM NO.</string>
+    <string name="save_changes">Save Changes</string>
+
+    <!-- New Cleaning Request -->
+    <string name="hostel_label">Hostel</string>
+    <string name="room_no_label">Room no.</string>
+    <string name="cleaning_type">Cleaning Type</string>
+    <string name="date_label">Date</string>
+    <string name="time_slot">Time Slot</string>
+    <string name="additional_notes">Additional Notes</string>
+    <string name="notes_hint">Mention any specific areas or special instructions...</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="select">Select</string>
+
+    <!-- Cleaning Progress -->
+    <string name="cleaning_progress">Cleaning Progress</string>
+    <string name="actual_start_time">Actual Start Time :</string>
+    <string name="estimated_time">ESTIMATED TIME</string>
+    <string name="cancel_request">CANCEL REQUEST</string>
+    <string name="cancel_warning">You may cancel the request within 5 minutes of allocation</string>
+    <string name="scan_qr">SCAN QR</string>
+    <string name="status_pending">Status: Pending</string>
+
+    <!-- Staff Dashboard -->
+    <string name="active_task">ACTIVE TASK</string>
+    <string name="mark_as_complete">MARK AS COMPLETE</string>
+    <string name="upcoming_tasks">UPCOMING TASKS</string>
+    <string name="see_all">See All</string>
+
+    <!-- QR Screen -->
+    <string name="cleaning_completed">Cleaning Completed</string>
+    <string name="ready_for_verification">READY FOR VERIFICATION</string>
+    <string name="scan_to_verify">Student: Scan this code to verify cleaning</string>
+
+    <!-- Feedback -->
+    <string name="rating_and_feedback">Rating &amp; Feedback</string>
+    <string name="rate_the_service">Rate the Service</string>
+    <string name="rate_description">How would you describe your room\'s cleanliness today?</string>
+    <string name="comments_feedback">Comments / Feedback</string>
+    <string name="feedback_hint">Share your thoughts on the cleaning service...</string>
+    <string name="submit_feedback">Submit Feedback</string>
+
+    <!-- Staff History -->
+    <string name="staff_work_history">Staff Work History</string>
+    <string name="todays_performance">Today\'s Performance</string>
+    <string name="rooms_cleaned">Rooms Cleaned</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="verified">VERIFIED</string>
+
+    <!-- Common -->
+    <string name="cleanify">Cleanify</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="regular_cleaning">Regular Cleaning</string>
+    <string name="deep_cleaning">Deep Cleaning</string>
+    <string name="normal_cleaning">Normal Cleaning</string>
+</resources>

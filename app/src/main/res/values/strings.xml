@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">Cleanify</string>
+
+    <!-- Splash -->
+    <string name="splash_tagline">Clean Rooms. Happy Students.</string>
+
+    <!-- Login -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_cleanify">Login to Cleanify</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register_link">Register</string>
+
+    <!-- Register -->
+    <string name="create_account">Create Account</string>
+    <string name="join_cleanify_student">Join Cleanify for a better hostel experience</string>
+    <string name="join_cleanify_staff">Join the Cleanify staff team</string>
+    <string name="student">STUDENT</string>
+    <string name="staff">STAFF</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="registration_number_hint">Registration Number</string>
+    <string name="hostel_id_hint">Hostel ID</string>
+    <string name="floor_number_hint">Floor Number</string>
+    <string name="room_number_hint">Room Number</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="login_link">Login</string>
+
+    <!-- Staff Register -->
+    <string name="househelp_id_hint">Househelp ID</string>
+    <string name="assigned_hostel_hint">Assigned Hostel</string>
+    <string name="shift_hint">Shift</string>
+
+
+
+
+
+
+
+    <!-- Student Dashboard -->
+    <string name="welcome_comma">Welcome,</string>
+    <string name="current_status">CURRENT STATUS</string>
+    <string name="no_active_request">No Active Request</string>
+    <string name="last_cleaned">Last Cleaned</string>
+    <string name="total_requests">Total Requests</string>
+    <string name="new_cleaning_request">New Cleaning Request</string>
+
+    <!-- Edit Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="service_location">SERVICE LOCATION</string>
+    <string name="hostel">HOSTEL</string>
+    <string name="room_no">ROOM NO.</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+
+    <!-- New Cleaning Request -->
+    <string name="hostel_label">Hostel</string>
+    <string name="room_no_label">Room no.</string>
+    <string name="cleaning_type">Cleaning Type</string>
+    <string name="date_label">Date</string>
+    <string name="time_slot">Time Slot</string>
+    <string name="additional_notes">Additional Notes</string>
+    <string name="notes_hint">Mention any specific areas or special instructions...</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="select">Select</string>
+
+    <!-- Cleaning Progress -->
+    <string name="cleaning_progress">Cleaning Progress</string>
+    <string name="actual_start_time_format">Actual Start Time : %1$s</string>
+    <string name="request_info_format">Request #%1$s • %2$s</string>
+    <string name="estimated_time">ESTIMATED TIME</string>
+    <string name="cancel_request">CANCEL REQUEST</string>
+    <string name="cancel_warning">You may cancel the request within 5 minutes of allocation</string>
+    <string name="scan_qr">SCAN QR</string>
+    <string name="status_in_progress">Status: In Progress</string>
+    <string name="status_pending">Status: Pending</string>
+    <string name="status_awaiting_start">Status: Awaiting Start Time</string>
+    <string name="status_cancelled">Status: Cancelled</string>
+    <string name="status_completed">Status: Completed</string>
+    <string name="status_prefix">Status: %1$s</string>
+    <string name="awaiting_staff">Awaiting Staff</string>
+    <string name="scheduled_for_format">Scheduled for %1$s</string>
+    <string name="started_at_format">Started at %1$s</string>
+    <string name="scan_prompt">Scan Househelp QR Code</string>
+    <string name="no_feedback_yet">No feedback provided yet by student</string>
+    <string name="submitting">Submitting...</string>
+    <string name="feedback_submitted">Feedback submitted! Thank you!</string>
+    <string name="request_cancelled">Request cancelled</string>
+    <string name="please_select_rating">Please select a rating</string>
+    <string name="staff_member">Staff Member</string>
+    <string name="creating_account">Creating account...</string>
+    <string name="registration_successful">Registration successful!</string>
+    <string name="fill_all_fields">Please fill all required fields</string>
+    <string name="password_length_error">Password must be at least 6 characters</string>
+    <string name="supabase_not_connected">Supabase not connected. Check local.properties and internet.</string>
+    <string name="logging_in">Logging in...</string>
+    <string name="email_required">Email is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="incorrect_password">Incorrect password</string>
+    <string name="user_not_found">User not found. Please register first.</string>
+    <string name="role_tab_error">This account is a %1$s. Please select the \'%2$s\' tab.</string>
+    <string name="user_not_found_tab">User not found on this tab. Please check your role.</string>
+    <string name="request_submitted">Request submitted!</string>
+    <string name="request_assigned_success">Request assigned to %1$s successfully!</string>
+    <string name="no_staff_available">No staff available for this slot. Please pick another time.</string>
+    <string name="not_authenticated">Not authenticated</string>
+    <string name="fill_required_fields">Please fill required fields and select a valid time</string>
+    <string name="select_label">Select</string>
+    <string name="househelp_staff">Househelp Staff</string>
+    <string name="star_desc">Star %1$d</string>
+    <string name="cleaning_time_completed">Cleaning time completed. Ready for verification!</string>
+    <string name="network_error">Network error. Please try again.</string>
+    <string name="profile_updated">Profile updated!</string>
+    <string name="profile_view_only">Profile viewing only for staff</string>
+    <string name="shift_label">Shift: %1$s</string>
+
+    <!-- Staff Dashboard -->
+    <string name="active_task">ACTIVE TASK</string>
+    <string name="mark_as_complete">MARK AS COMPLETE</string>
+    <string name="upcoming_tasks">UPCOMING TASKS</string>
+    <string name="see_all">See All</string>
+
+    <!-- QR Screen -->
+    <string name="cleaning_completed">Cleaning Completed</string>
+    <string name="ready_for_verification">READY FOR VERIFICATION</string>
+    <string name="scan_to_verify">Student: Scan this code to verify cleaning</string>
+
+    <!-- Feedback -->
+    <string name="rating_and_feedback">Rating &amp; Feedback</string>
+    <string name="rate_the_service">Rate the Service</string>
+    <string name="rate_description">How would you describe your room\'s cleanliness today?</string>
+    <string name="comments_feedback">Comments / Feedback</string>
+    <string name="feedback_hint">Share your thoughts on the cleaning service...</string>
+    <string name="submit_feedback">Submit Feedback</string>
+
+    <!-- Staff History -->
+    <string name="staff_work_history">Staff Work History</string>
+    <string name="todays_performance">Today\'s Performance</string>
+    <string name="rooms_cleaned">Rooms Cleaned</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="verified">VERIFIED</string>
+
+    <!-- Common -->
+    <string name="cleanify">Cleanify</string>
+
+    <string name="no_active_tasks">No Active Tasks</string>
+    <string name="regular_cleaning">Regular Cleaning</string>
+    <string name="deep_cleaning">Deep Cleaning</string>
+    <string name="normal_cleaning">Normal Cleaning</string>
+    <string name="request_history">REQUEST HISTORY</string>
+    <string name="view_history">VIEW HISTORY</string>
+    <string name="work_history">WORK HISTORY</string>
+    <string name="done_status">Done</string>
+    <string name="active_cleaning">ACTIVE CLEANING</string>
+    <string name="assigned_hostel_label">Assigned Hostel: </string>
+    <string name="room_hostel_format">Room %1$s, Hostel %2$s</string>
+    <string name="staff_assigned_prefix">Staff assigned : </string>
+    <string name="starts_in_format">Starts in: %1$s</string>
+    <string name="time_left_format">Time Left: %1$s</string>
+    <string name="time_placeholder">--:--</string>
+    <string name="room_info_unavailable">Room Info Not Available</string>
+    <string name="cleaning_label">Cleaning</string>
+</resources>

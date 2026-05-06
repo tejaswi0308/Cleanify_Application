@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81552278725",
+    "project_id": "cleanify-demo",
+    "storage_bucket": "cleanify-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81552278725:android:d527a797f3ed972f335cac",
+        "android_client_info": {
+          "package_name": "com.example.cleanify_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-0YGSZLGsPn07A3fJrDAuJ9-pvY7RrJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+# Supabase Configuration
+# Copy this file to local.properties and fill in your actual values
+SUPABASE_URL=https://tmlimsmwtjpbclrrvykw.supabase.co
+SUPABASE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRtbGltc213dGpwYmNscnJ2eWt3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc2MjA1NjAsImV4cCI6MjA5MzE5NjU2MH0.eDtuprdrHl6ardm5L7y8NzD0FRuDSi28p-ktoV-n-tw
