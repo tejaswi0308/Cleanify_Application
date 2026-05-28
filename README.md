@@ -1,4 +1,4 @@
-# 🧹 Cleanify
+# 🧹Cleanify
 [![Android Platform](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square&logo=android)](https://developer.android.com/)
 [![Language](https://img.shields.io/badge/Language-Java-orange.svg?style=flat-square)](https://www.oracle.com/java/)
 [![Backend](https://img.shields.io/badge/Backend-Supabase-blueviolet.svg?style=flat-square&logo=supabase)](https://supabase.com/)
