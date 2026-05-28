@@ -6,7 +6,7 @@
 **Cleanify** is a native Android application designed to streamline and automate cleaning requests and management within campus hostels or residential complexes. Built with Java and integrated directly with a **Supabase** backend using lightweight HTTP REST communication, it offers a secure, role-based ecosystem for students and cleaning staff.
 ---
 ## 📱 Features & Workflows
-### 🎓 Student Portal
+###  Student Portal
 - **Secure Registration & Login**: Registration collects essential location metadata (hostel name, floor, room number) and student ID credentials.
 - **Request Booking**: Schedule regular, deep, or normal cleaning. Time slots are generated dynamically in 30-minute intervals based on availability and logic (automatically rolling over to the next day if booking late).
 - **Live Status Tracking**: View current cleaning requests. An active request card shows the status (Pending ➔ Staff Assigned ➔ In Progress ➔ Completed) with an active countdown timer.
